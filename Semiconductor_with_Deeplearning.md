@@ -40,6 +40,7 @@
 ## 연구 결과
 - **학습 과정에 따른 정확도**
 <img src="https://user-images.githubusercontent.com/121841464/232312118-8386e46e-dd75-4a19-bea1-c93dc1a2061b.png" width="400">
+
 > Validation data는 전체 데이터의 20%를 이용하여 실험을 하였으며, 정확도가 더 이상 떨어지지 않을 때 학습을 멈추는 Early stopping을 적용하였다
 
 - **원/복원 데이의 차이값 히스토그램**
